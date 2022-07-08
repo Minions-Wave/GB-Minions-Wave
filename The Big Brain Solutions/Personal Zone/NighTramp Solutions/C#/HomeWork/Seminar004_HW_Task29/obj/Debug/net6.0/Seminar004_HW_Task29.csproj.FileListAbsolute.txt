@@ -1,0 +1,15 @@
+C:\Ed\C#\Examples\Seminar004_HW_Task29\bin\Debug\net6.0\Seminar004_HW_Task29.exe
+C:\Ed\C#\Examples\Seminar004_HW_Task29\bin\Debug\net6.0\Seminar004_HW_Task29.deps.json
+C:\Ed\C#\Examples\Seminar004_HW_Task29\bin\Debug\net6.0\Seminar004_HW_Task29.runtimeconfig.json
+C:\Ed\C#\Examples\Seminar004_HW_Task29\bin\Debug\net6.0\Seminar004_HW_Task29.dll
+C:\Ed\C#\Examples\Seminar004_HW_Task29\bin\Debug\net6.0\Seminar004_HW_Task29.pdb
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.csproj.AssemblyReference.cache
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.AssemblyInfoInputs.cache
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.AssemblyInfo.cs
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.csproj.CoreCompileInputs.cache
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.dll
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\refint\Seminar004_HW_Task29.dll
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.pdb
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\Seminar004_HW_Task29.genruntimeconfig.cache
+C:\Ed\C#\Examples\Seminar004_HW_Task29\obj\Debug\net6.0\ref\Seminar004_HW_Task29.dll
