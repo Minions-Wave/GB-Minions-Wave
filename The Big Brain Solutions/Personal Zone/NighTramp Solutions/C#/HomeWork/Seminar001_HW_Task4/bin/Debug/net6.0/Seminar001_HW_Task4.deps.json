@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Seminar001_HW_Task4/1.0.0": {
+        "runtime": {
+          "Seminar001_HW_Task4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seminar001_HW_Task4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

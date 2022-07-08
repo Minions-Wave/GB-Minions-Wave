@@ -1,0 +1,15 @@
+C:\Ed\C#\Examples\Seminar003_HW_Task19\bin\Debug\net6.0\Seminar003_HW_Task19.exe
+C:\Ed\C#\Examples\Seminar003_HW_Task19\bin\Debug\net6.0\Seminar003_HW_Task19.deps.json
+C:\Ed\C#\Examples\Seminar003_HW_Task19\bin\Debug\net6.0\Seminar003_HW_Task19.runtimeconfig.json
+C:\Ed\C#\Examples\Seminar003_HW_Task19\bin\Debug\net6.0\Seminar003_HW_Task19.dll
+C:\Ed\C#\Examples\Seminar003_HW_Task19\bin\Debug\net6.0\Seminar003_HW_Task19.pdb
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.csproj.AssemblyReference.cache
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.AssemblyInfoInputs.cache
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.AssemblyInfo.cs
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.csproj.CoreCompileInputs.cache
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.dll
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\refint\Seminar003_HW_Task19.dll
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.pdb
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\Seminar003_HW_Task19.genruntimeconfig.cache
+C:\Ed\C#\Examples\Seminar003_HW_Task19\obj\Debug\net6.0\ref\Seminar003_HW_Task19.dll

@@ -1,0 +1,15 @@
+C:\Ed\C#\Examples\Seminar002_HW_Task13\bin\Debug\net6.0\Seminar002_HW_Task13.exe
+C:\Ed\C#\Examples\Seminar002_HW_Task13\bin\Debug\net6.0\Seminar002_HW_Task13.deps.json
+C:\Ed\C#\Examples\Seminar002_HW_Task13\bin\Debug\net6.0\Seminar002_HW_Task13.runtimeconfig.json
+C:\Ed\C#\Examples\Seminar002_HW_Task13\bin\Debug\net6.0\Seminar002_HW_Task13.dll
+C:\Ed\C#\Examples\Seminar002_HW_Task13\bin\Debug\net6.0\Seminar002_HW_Task13.pdb
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.csproj.AssemblyReference.cache
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.AssemblyInfoInputs.cache
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.AssemblyInfo.cs
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.csproj.CoreCompileInputs.cache
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.dll
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\refint\Seminar002_HW_Task13.dll
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.pdb
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\Seminar002_HW_Task13.genruntimeconfig.cache
+C:\Ed\C#\Examples\Seminar002_HW_Task13\obj\Debug\net6.0\ref\Seminar002_HW_Task13.dll
