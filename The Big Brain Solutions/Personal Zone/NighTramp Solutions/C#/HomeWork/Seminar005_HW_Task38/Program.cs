@@ -19,7 +19,7 @@ namespace Task38
             }
             return array;
         }
-        public static void ViewArrayAndSumOfUnevenNumbers(double[] array)
+        public static void ViewArrayAndSubOfMaxAndMin(double[] array)
         {
             double min = array.First();
             double max = array.First();
@@ -40,7 +40,7 @@ namespace Task38
         }
         static void Main(string[] asgs)
         {
-            ViewArrayAndSumOfUnevenNumbers(RandomRealNumbersArrayGenerator());
+            ViewArrayAndSubOfMaxAndMin(RandomRealNumbersArrayGenerator());
         }
     }
 }
