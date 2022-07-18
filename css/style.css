@@ -1,0 +1,70 @@
+body
+{
+    background-color: #1a1a1a;
+}
+h2
+{
+    text-align: center;
+}
+.block
+{
+    background-color: #242424;
+    color: #b9b9b9;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px; /* Радиус скругления */
+    border: 1px solid #101010; /* Параметры рамки */
+    box-shadow: 0 0 30px #101010 inset; /* Параметры тени */
+    overflow: auto;
+}
+a, a:visited, a:active
+{
+    color: #647687;
+    text-decoration: none;
+    cursor: default;
+}
+a:hover
+{
+    color: #8496a7;
+    text-decoration: none;
+    cursor: default;
+}
+.section
+{
+    background-color: #242424;
+    color: #b9b9b9;
+    margin: 10px 15% 10px 15%;
+    border-radius: 10px; /* Радиус скругления */
+    border: 1px solid #647687; /* Параметры рамки */
+    box-shadow: 0 0 7px #647687; /* Параметры тени */
+    overflow: auto;
+    width: 70%;
+    min-width: 550px;
+}
+header, footer
+{
+    background-color: #242424;
+    color: #647687;
+    border-top: 1px solid #647687; /* Параметры рамки */
+    border-bottom: 1px solid #647687; /* Параметры рамки */
+    box-shadow: 0 0 7px #647687; /* Параметры тени */
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.round 
+{
+    border-radius: 50%; /* Радиус скругления */
+    border: 2px solid grey; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+    margin: 10px;
+    max-height: 200px;
+    min-height: 150px;
+    float: left;
+}
+.top_img {
+    border-radius: 10px; /* Радиус скругления */
+    border: 1px solid grey; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+}
