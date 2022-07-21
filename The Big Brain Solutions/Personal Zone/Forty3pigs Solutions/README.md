@@ -1,8 +1,3 @@
-# GB-Minions-Wave
-Это будет полный бананас
+# 43
 
-Чтобы не было проблем с git add:
-
-1. Называем папку проекта без пробелов.
-2. Спускаемся в папку проекта
-3. Делаем add, commit и pull+push из неё.
+![Пятаки](https://selo-exp.com/wp-content/uploads/2017/05/svini.jpg)
