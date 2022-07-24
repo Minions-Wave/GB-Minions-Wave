@@ -14,11 +14,11 @@ namespace Task62
 {
     class Program
     {
-        static int[,] baby = new int[5,5];
-        static int round = baby.GetLength(0);
-        static int round1 = 0;
-        static int round2 = round-1;
-        static int turn = 1;
+        static int[,] baby = new int[0,0];
+        static int round;
+        static int round1;
+        static int round2;
+        static int turn;
         static bool WatchOutHereICome()
         {
             round1++;
@@ -94,8 +94,20 @@ namespace Task62
                 Console.WriteLine("]");
             }
         }
+        static void PlayingConfig()
+        {
+            Console.Write("Введите значение размера матрицы: ");
+            int size = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Recording...");
+            baby = new int[size,size];
+            round = baby.GetLength(0);
+            round1 = 0;
+            round2 = round-1;
+            turn = 1;
+        }
         static void Main(string[] asgs)
         {
+            PlayingConfig();
             Console.Clear();
             StartARecord();
         }
