@@ -9,6 +9,7 @@
 */
 using System;
 using System.Threading;
+using System.Diagnostics;
 
 namespace Task62
 {
@@ -107,7 +108,11 @@ namespace Task62
         }
         static void Main(string[] asgs)
         {
+            string target = "https://youtu.be/PGNiXGX2nLU?t=61";
             PlayingConfig();
+            Process.Start(new ProcessStartInfo(target) 
+            { UseShellExecute = true });
+            Thread.Sleep(2000);
             Console.Clear();
             StartARecord();
         }
