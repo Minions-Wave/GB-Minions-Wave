@@ -81,6 +81,7 @@ header, footer
     min-width: 260px;
     width: 100%;
     margin: 0px 5px 0px 10px;
+    padding: 10px;
   }
   
   .second {
@@ -88,14 +89,36 @@ header, footer
     max-width: 250px;
     min-width: 250px;
     margin: 0px 10px 0px 5px;
+    padding: 5px;
   }
   .block-f
 {
     background-color: #242424;
     color: #b9b9b9;
-    padding: 10px;
     border-radius: 10px; /* Радиус скругления */
     border: 1px solid #101010; /* Параметры рамки */
     box-shadow: 0 0 30px #101010 inset; /* Параметры тени */
-    overflow: auto;
+    overflow: hidden;
 }
+.c-button {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #5865f2;
+    color: #fff;
+    padding: 8px 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    min-width: 96%;
+    min-height: 29.3%;
+    margin: 5px;
+  }
+  .c-button:hover 
+  {
+    background: #4049b0;
+  }
+  .ft
+  {
+    font-size: 25px;
+  }
