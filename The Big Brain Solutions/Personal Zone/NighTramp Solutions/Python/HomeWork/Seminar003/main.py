@@ -1,10 +1,9 @@
 import os
 import lib
 import task_1
-# import task_2
-# import task_3
-# import task_4
-# import task_5
+import task_2
+import task_3
+import task_4
 
 def print_menu():
     clear = lambda: os.system('cls')
@@ -16,7 +15,6 @@ def print_menu():
           '3 - Разница дробных\n'+
           '4 - Перевод в двоичную\n'+
           '===================\n'+
-          '5 - Фибоначчи\n'+
           '0 - Выход')
 
 def menu():
@@ -33,7 +31,5 @@ def menu():
                 task_3.start_task()
             case 4:
                 task_4.start_task()
-            case 5:
-                task_5.start_task()
                 
 menu()
