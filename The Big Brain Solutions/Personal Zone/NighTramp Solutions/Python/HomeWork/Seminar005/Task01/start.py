@@ -1,5 +1,3 @@
-
-from tkinter import W
 from main import *
 
 def app():
