@@ -74,6 +74,7 @@ header, footer
     overflow: auto;
     display: flex;
     flex-flow: row nowrap;
+    
   }
   
   .first {
@@ -101,28 +102,49 @@ header, footer
     overflow: hidden;
 }
 .c-button {
-    display: block;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    background-color: #5865f2;
     text-align: center;
+    font: caption;	
+    font-size: 28px;
+    color: white;
+    height: 70px;
+    width: auto;
+    margin: 10px;
     text-decoration:none;
     border: 0;
     border-radius: 5px;
-    background: #5865f2;
-    color: #fff;
-    padding: 8%;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 16px;
-    min-width: 90%;
-    min-height: 28%;
-    margin: 10px;
   }
-  .c-button:hover 
-  {
-    color:#fff;
-    text-decoration:none;
-    background: #4049b0;
-  }
-  .ft
-  {
-    font-size: 25px;
-  }
+.c-button:hover 
+{
+  color:#fff;
+  text-decoration:none;
+  background: #4049b0;
+}
+.ft
+{
+  font-size: 18px;
+  margin: auto;
+}
+
+#navbar {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  font-size: 20px;
+  grid-column: 3;
+}
+#navbar li { 
+  display: inline; 
+  margin-right: 10px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+}
