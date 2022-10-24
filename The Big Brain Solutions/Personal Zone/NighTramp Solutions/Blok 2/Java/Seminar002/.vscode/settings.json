@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\NighTramp\\Desktop\\jackson-annotations-2.14.0-rc2.jar",
+        "c:\\Users\\NighTramp\\Desktop\\jackson-core-2.14.0-rc2.jar",
+        "c:\\Users\\NighTramp\\Desktop\\jackson-databind-2.14.0-rc2.jar"
+    ]
+}
