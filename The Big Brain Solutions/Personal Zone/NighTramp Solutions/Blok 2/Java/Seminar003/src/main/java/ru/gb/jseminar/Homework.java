@@ -11,15 +11,14 @@ public class Homework {
 
     // Нужно удалить из него четные числа
     public List<Integer> removeNegativeValue(List<Integer> list){
-
         Iterator<Integer> i = list.iterator();
+
         while (i.hasNext()) {
-            int a = i.next();
-            if (a < 0)
+            if (i.next() < 0)
                 i.remove();
         }
 
-        return new ArrayList<>();
+        return list;
     }
 
     // Найти минимальное значение
@@ -34,7 +33,6 @@ public class Homework {
 
     // Найти среднее значение
     public Integer getAverage(List<Integer> list){
-
         int sum = 0;
 
         for (int num: list) {
