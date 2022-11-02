@@ -9,7 +9,6 @@ import java.util.Arrays;
 import java.util.List;
 
 class HomeworkTest {
-    private final List<Integer> expectedList = new ArrayList<>(Arrays.asList(-2, -1, 0, 1, 2, 30));
 
     @Test
     void removeNegativeValueSuccessful() {
